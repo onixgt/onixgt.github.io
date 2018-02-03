@@ -1,0 +1,18 @@
+.alert {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    border: 1px solid #d6e9c6;
+    background-color: #dff0d8;
+    border-radius: 5px;
+
+}
+
+td {
+    padding: 17px;
+    padding-right: 160px;
+    font-size: 20px;
+    color: #0088cc;
+}
+
